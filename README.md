@@ -31,14 +31,3 @@ How many years do you want to check? 8
 2000 is a leap year
 2001 isn’t a leap year
 ● Compile, save and run your file.
-
-Compulsory Task 3
-Follow these steps:
-● Create a new Python file in this folder called “task3.py”
-● Now create a while loop that will display count down from 20 to 0..
-● Next, create a loop that will display all the even numbers between 1 and
-20.
-● Create a loop that will produce the following output:
-*
-**
-***
